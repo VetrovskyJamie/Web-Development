@@ -1,2 +1,2 @@
 # Web-Development
-SImple repository to house web development testing
+Simple repository to house web development testing
